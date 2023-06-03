@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card-movie {
+    background-image: url('capa.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    height: 350px;
+    width: 230px;
+    padding-top: 10px;
+    margin: 10px;
+
+}
+
+.card-movie h2,
+h3 {
+    color: #ffffff;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 302px;
+
+    background-color: #000000;
+}
